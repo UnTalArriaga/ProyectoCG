@@ -1,0 +1,171 @@
+newmtl pecera:_Coral_Beauty_Angelfish_v2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 13009_Coral_Beauty_Angelfish_v1_diff.jpg
+map_Ka 13009_Coral_Beauty_Angelfish_v1_diff.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+map_Ks 13009_Coral_Beauty_Angelfish_v1_spec.jpg
+Ns 30.00
+newmtl pecera:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TropicalFish02.jpg
+map_Ka TropicalFish02.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl pecera:___Default2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TropicalFish01.jpg
+map_Ka TropicalFish01.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl pecera:___Default4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TropicalFish09.jpg
+map_Ka TropicalFish09.jpg
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_glass1
+illum 4
+Kd 0.55 0.76 1.00
+Ka 0.55 0.76 1.00
+Tf 0.05 0.05 0.05
+Ni 1.50
+Ks 0.63 0.63 0.63
+Ns 66.00
+newmtl pecera:_saltwater_aquarium_glass_2
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 0.50 0.50 0.50
+Ni 1.50
+Ks 0.36 0.36 0.36
+Ns 16.00
+newmtl pecera:_saltwater_aquarium_glass_5
+illum 4
+Kd 0.59 0.68 0.65
+Ka 0.59 0.68 0.65
+Tf 0.05 0.05 0.05
+Ni 1.50
+Ks 0.63 0.63 0.63
+Ns 66.00
+newmtl pecera:_saltwater_aquarium_plastic_1
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.59 0.59 0.59
+Ns 27.00
+newmtl pecera:_saltwater_aquarium_rock_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_1_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_1_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_2_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_2_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_4_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_4_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_5_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_5_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_9
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_6_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_6_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_11
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_7_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_7_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rock_13
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_rock_3_diff.jpg
+map_Ka 12987_saltwater_aquarium_rock_3_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_rubber
+illum 4
+Kd 0.11 0.11 0.11
+Ka 0.11 0.11 0.11
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.26 0.26 0.26
+Ns 4.00
+newmtl pecera:_saltwater_aquarium_sand1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_sand_diff.jpg
+map_Ka 12987_saltwater_aquarium_sand_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
+newmtl pecera:_saltwater_aquarium_stone
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 12987_saltwater_aquarium_stone_diff.jpg
+map_Ka 12987_saltwater_aquarium_stone_diff.jpg
+Ni 1.50
+Ks 0.09 0.09 0.09
+Ns 10.00
